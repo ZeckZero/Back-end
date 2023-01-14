@@ -14,6 +14,7 @@ com\portfolio\mgb\Security\jwt\JwtTokenFilter.class
 com\portfolio\mgb\Entity\Persona.class
 com\portfolio\mgb\Interface\IPersonaService.class
 com\portfolio\mgb\Security\Dto\NuevoUsuario.class
+.netbeans_automatic_build
 com\portfolio\mgb\Dto\dtoPersona.class
 com\portfolio\mgb\Service\Seducacion.class
 com\portfolio\mgb\Controller\CEducacion.class
